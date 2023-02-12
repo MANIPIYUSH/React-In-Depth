@@ -1,7 +1,8 @@
-//1- Create a nested header element using React.createElement(h1,h2,h3 inside a div with class "title")
 
 import React from "react";
 import  ReactDOM from "react-dom/client";
+
+//1- Create a nested header element using React.createElement(h1,h2,h3 inside a div with class "title")
 
 // const heading= React.createElement(
 //     "div",
